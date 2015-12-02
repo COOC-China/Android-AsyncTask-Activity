@@ -1,1 +1,17 @@
-{}
+{
+    "title": "Android AsyncTask Activity",
+    "description": "Android AsyncTask Activity",
+    "plugins": [
+	"collapsible-menu",
+        "livereload",
+      	"disqus"
+    ],
+    "pluginsConfig": {
+    	"disqus": {
+    		"shortName": "android-asynctask-activity"
+    	}
+  	},
+    "styles": {
+        "website": "styles/website.css"
+    }
+}
