@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [课程简介](README.md)
 * [Chapter 1](chapter1.md)
     * [Lesson 1](content/lesson_1.md)
     * [Lesson 2](content/lesson_2.md)
