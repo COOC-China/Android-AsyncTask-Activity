@@ -2,7 +2,7 @@
     "title": "Android AsyncTask Activity",
     "description": "Android AsyncTask Activity",
     "plugins": [
-	"collapsible-menu",
+        "collapsible-menu",
         "livereload",
       	"disqus"
     ],
