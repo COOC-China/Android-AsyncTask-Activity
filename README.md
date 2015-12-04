@@ -1,6 +1,6 @@
 Android Fundamentals
 =======
-*此课程只用作示例，不是真实课程*
+*此课程内容只用作示例，不是正式课程，如有侵权，请联系作者删除*
 
 For intermediate programmers pursuing Android mastery, this program teaches the tools, principles, and patterns that underlie all Android development.
 
