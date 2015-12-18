@@ -1,6 +1,18 @@
 {
     "title": "Android AsyncTask Activity",
     "description": "Android AsyncTask Activity",
+    "links"{
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "COOC China": "https://cooc-china.github.io/"
+        }
+    }
     "plugins": [
         "collapsible-menu",
         "livereload",
