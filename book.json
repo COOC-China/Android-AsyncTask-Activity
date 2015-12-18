@@ -12,7 +12,7 @@
         "sidebar": {
             "COOC China": "https://cooc-china.github.io/"
         }
-    }
+    },
     "plugins": [
         "collapsible-menu",
         "livereload",
