@@ -1,6 +1,6 @@
 {
-    "title": "Android AsyncTask Activity",
-    "description": "Android AsyncTask Activity",
+    "title": "Android AsyncTask",
+    "description": "Android AsyncTask",
     "links": {
         "sharing": {
             "weibo": null
@@ -16,7 +16,7 @@
     ],
     "pluginsConfig": {
     	"disqus": {
-    		"shortName": "android-asynctask-activity"
+    		"shortName": "android-asynctask"
     	}
   	},
     "styles": {
